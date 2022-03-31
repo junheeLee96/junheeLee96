@@ -29,6 +29,6 @@
   <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
   </div>
   
-  [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=junHeeLee96)]
+  ![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=junHeeLee96)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junheeLee96)
